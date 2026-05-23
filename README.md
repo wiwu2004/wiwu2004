@@ -71,7 +71,6 @@ Python
 Docker &nbsp;|&nbsp; Git
 
 </div>
----
 
 ## 🔥 GitHub Streak
 

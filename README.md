@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Willian Wu
+# Hi, I'm Willian Wu
 
-> 🚀 **Software Engineering Student | Java & Spring Boot | TypeScript & Angular | Python Automation**
+**Software Engineering Student | Java & Spring Boot | TypeScript & Angular | Python Automation**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Java+Developer;Spring+Boot+Backend+Developer;Frontend+with+Angular+and+React;Automation+with+Python;Always+learning+new+technologies" />
 

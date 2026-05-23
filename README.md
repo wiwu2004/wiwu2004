@@ -56,7 +56,7 @@ Java &nbsp;|&nbsp; Node.js &nbsp;|&nbsp; Express &nbsp;|&nbsp; Spring Boot &nbsp
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
-Python Automation
+Python
 
 </div>
 
@@ -68,7 +68,7 @@ Python Automation
 
 <img src="https://skillicons.dev/icons?i=docker,vercel,aws,git&theme=dark" />
 
-Docker &nbsp;|&nbsp; Vercel &nbsp;|&nbsp; AWS &nbsp;|&nbsp; Git
+Docker &nbsp;|&nbsp; Git
 
 </div>
 

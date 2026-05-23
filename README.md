@@ -31,6 +31,8 @@
 `JavaScript` `TypeScript` `React` `Angular` `Next.js` `Tailwind` `Vite`
 </div>
 
+<br/>
+
 ### ⚙️ Back End
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,nodejs,express,spring,mysql,postgres&theme=dark" />
@@ -38,12 +40,16 @@
 `Java` `Node.js` `Express` `Spring Boot` `MySQL` `PostgreSQL`
 </div>
 
+<br/>
+
 ### 🤖 Automation
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python&theme=dark" />
 <br/><br/>
 `Python Automation`
 </div>
+
+<br/>
 
 ### 🛠️ DevOps & Tools
 <div align="center">
@@ -58,6 +64,7 @@
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wiwu2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" />
+&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiwu2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" />
 </div>
 

@@ -71,19 +71,6 @@ Python
 Docker &nbsp;|&nbsp; Git
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wiwu2004&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
-&nbsp;&nbsp;&nbsp;
-<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wiwu2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9" />
-
-</div>
-
 ---
 
 ## 🔥 GitHub Streak

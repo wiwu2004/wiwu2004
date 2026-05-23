@@ -2,23 +2,15 @@
 
 # Hi 👋, I'm Willian Wu
 
-<br/>
-
 > 🚀 **Software Engineering Student | Java & Spring Boot | TypeScript & Angular | Python Automation**
 
-<br/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Java+Developer;Spring+Boot+Backend+Developer;Frontend+with+Angular+and+React;Automation+with+Python;Always+learning+new+technologies" />
-
-<br/><br/>
 
 </div>
 
 ---
 
 ## 🌎 Where to find me
-
-<br/>
 
 <div align="center">
 
@@ -30,83 +22,43 @@
 
 </div>
 
-<br/>
-
 ---
 
 ## 💻 Tech Stack
 
-<br/>
-
 ### 🎨 Front End
-
-<br/>
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs,tailwind,vite&theme=dark" />
 
-<br/><br/>
-
 JavaScript &nbsp;|&nbsp; TypeScript &nbsp;|&nbsp; React &nbsp;|&nbsp; Angular &nbsp;|&nbsp; Next.js &nbsp;|&nbsp; Tailwind &nbsp;|&nbsp; Vite
 
-</div>
-
-<br/><br/>
+<br/>
 
 ### ⚙️ Back End
 
-<br/>
-
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=java,nodejs,express,spring,mysql,postgres&theme=dark" />
-
-<br/><br/>
 
 Java &nbsp;|&nbsp; Node.js &nbsp;|&nbsp; Express &nbsp;|&nbsp; Spring Boot &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; PostgreSQL
 
-</div>
-
-<br/><br/>
+<br/>
 
 ### 🤖 Automation
 
-<br/>
-
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-
-<br/><br/>
 
 Python Automation
 
-</div>
-
-<br/><br/>
+<br/>
 
 ### 🛠️ DevOps & Tools
 
-<br/>
-
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=docker,vercel,aws,git&theme=dark" />
 
-<br/><br/>
-
 Docker &nbsp;|&nbsp; Vercel &nbsp;|&nbsp; AWS &nbsp;|&nbsp; Git
-
-</div>
-
-<br/>
 
 ---
 
 ## 📊 GitHub Stats
-
-<br/>
 
 <div align="center">
 
@@ -116,13 +68,9 @@ Docker &nbsp;|&nbsp; Vercel &nbsp;|&nbsp; AWS &nbsp;|&nbsp; Git
 
 </div>
 
-<br/>
-
 ---
 
 ## 🔥 GitHub Streak
-
-<br/>
 
 <div align="center">
 
@@ -130,11 +78,7 @@ Docker &nbsp;|&nbsp; Vercel &nbsp;|&nbsp; AWS &nbsp;|&nbsp; Git
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 <div align="center">
 

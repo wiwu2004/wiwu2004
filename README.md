@@ -28,33 +28,49 @@
 
 ### 🎨 Front End
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs,tailwind,vite&theme=dark" />
 
 JavaScript &nbsp;|&nbsp; TypeScript &nbsp;|&nbsp; React &nbsp;|&nbsp; Angular &nbsp;|&nbsp; Next.js &nbsp;|&nbsp; Tailwind &nbsp;|&nbsp; Vite
+
+</div>
 
 <br/>
 
 ### ⚙️ Back End
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=java,nodejs,express,spring,mysql,postgres&theme=dark" />
 
 Java &nbsp;|&nbsp; Node.js &nbsp;|&nbsp; Express &nbsp;|&nbsp; Spring Boot &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; PostgreSQL
+
+</div>
 
 <br/>
 
 ### 🤖 Automation
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
 Python Automation
+
+</div>
 
 <br/>
 
 ### 🛠️ DevOps & Tools
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=docker,vercel,aws,git&theme=dark" />
 
 Docker &nbsp;|&nbsp; Vercel &nbsp;|&nbsp; AWS &nbsp;|&nbsp; Git
+
+</div>
 
 ---
 

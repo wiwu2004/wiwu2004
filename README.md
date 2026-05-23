@@ -43,9 +43,13 @@
 <br/>
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs,tailwind,vite&theme=dark" />
+
 <br/><br/>
-`JavaScript` `TypeScript` `React` `Angular` `Next.js` `Tailwind` `Vite`
+
+JavaScript &nbsp;|&nbsp; TypeScript &nbsp;|&nbsp; React &nbsp;|&nbsp; Angular &nbsp;|&nbsp; Next.js &nbsp;|&nbsp; Tailwind &nbsp;|&nbsp; Vite
+
 </div>
 
 <br/><br/>
@@ -55,9 +59,13 @@
 <br/>
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=java,nodejs,express,spring,mysql,postgres&theme=dark" />
+
 <br/><br/>
-`Java` `Node.js` `Express` `Spring Boot` `MySQL` `PostgreSQL`
+
+Java &nbsp;|&nbsp; Node.js &nbsp;|&nbsp; Express &nbsp;|&nbsp; Spring Boot &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; PostgreSQL
+
 </div>
 
 <br/><br/>
@@ -67,9 +75,13 @@
 <br/>
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
 <br/><br/>
-`Python Automation`
+
+Python Automation
+
 </div>
 
 <br/><br/>
@@ -79,9 +91,13 @@
 <br/>
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=docker,vercel,aws,git&theme=dark" />
+
 <br/><br/>
-`Docker` `Vercel` `AWS` `Git`
+
+Docker &nbsp;|&nbsp; Vercel &nbsp;|&nbsp; AWS &nbsp;|&nbsp; Git
+
 </div>
 
 <br/>
@@ -94,9 +110,9 @@
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=wiwu2004&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
-&nbsp;&nbsp;
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiwu2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9" />
+<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wiwu2004&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
+&nbsp;&nbsp;&nbsp;
+<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wiwu2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9" />
 
 </div>
 

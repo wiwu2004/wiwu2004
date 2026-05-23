@@ -66,7 +66,7 @@ Python
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,vercel,aws,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,git&theme=dark" />
 
 Docker &nbsp;|&nbsp; Git
 
